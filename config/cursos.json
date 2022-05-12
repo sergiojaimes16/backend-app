@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "627bdc32d27328364f3e151a"
+  },
+  "nombre": "Curso de React",
+  "tutor": "Fernando Herrera",
+  "temas": "Javascript, DOM, fetch y axios, hooks",
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1652284322830"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627c1c15d211553919d63632"
+  },
+  "nombre": "Curso de Vue",
+  "tutor": "Sergio Andrés Jaimes",
+  "temas": "Javascript, directivas, DOM y fetch",
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1652297117674"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627c1ebfd211553919d63644"
+  },
+  "nombre": "Curso de Angular",
+  "tutor": "Adrian Ramos",
+  "temas": "TypeScript, Observables, Servicios, Rxjs, Componentes, modulos etc",
+  "fechaCreacion": {
+    "$date": {
+      "$numberLong": "1652297117674"
+    }
+  },
+  "__v": 0
+}]
